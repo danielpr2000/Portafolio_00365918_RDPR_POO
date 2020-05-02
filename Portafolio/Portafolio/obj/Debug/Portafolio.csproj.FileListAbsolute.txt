@@ -1,0 +1,5 @@
+C:\Users\HP\RiderProjects\Portafolio\Portafolio\obj\Debug\Portafolio.csprojAssemblyReference.cache
+C:\Users\HP\RiderProjects\Portafolio\Portafolio\bin\Debug\Portafolio.exe
+C:\Users\HP\RiderProjects\Portafolio\Portafolio\bin\Debug\Portafolio.pdb
+C:\Users\HP\RiderProjects\Portafolio\Portafolio\obj\Debug\Portafolio.exe
+C:\Users\HP\RiderProjects\Portafolio\Portafolio\obj\Debug\Portafolio.pdb
